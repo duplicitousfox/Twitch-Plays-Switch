@@ -3,7 +3,7 @@ A script that reads Twitch IRC Chat and parses commands to send to joycontrol an
 
 This script should be placed in the same folder as joycontrol and run from there with "sudo python3 twpsw.py".
 
-Be sure to create an account for your bot on Switch, and get it an Oauth key from Twitch (required!) and put that in the PASS section of the code.
+Be sure to create an account for your bot on Twitch, and get it an Oauth key from Twitch (required!) and put that in the PASS section of the code.
 Also be sure to add your channel name, your Twitch name, and run Joycontrol so you can get your Switch's Bluetooth MAC address to place in the
 SWITCHBTMAC field.
 
