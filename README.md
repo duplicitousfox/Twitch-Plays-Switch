@@ -1,5 +1,9 @@
 # Twitch-Plays-Switch
-A script that reads Twitch IRC Chat and parses commands to send to joycontrol and pass button presses to your Switch!
+A script that reads Twitch IRC Chat and parses commands to send to joycontrol and pass button presses to your Switch over Bluetooth!
+
+What you'll need: joycontrol (https://github.com/mart1nro/joycontrol)
+A bluetooth adapter
+Basic knowledge on how to edit scripts (trust me, it's not that complex)
 
 This script should be placed in the same folder as joycontrol and run from there with "sudo python3 twpsw.py".
 
